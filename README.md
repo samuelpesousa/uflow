@@ -5,7 +5,7 @@
 Recursos Principais:
 <br/>
 <ul>
-
+<br/>
 <b>🌟 Gerenciamento da Grade Curricular</b>
 
 <li>Importação da grade curricular da faculdade através de arquivos PDF.</li>
@@ -17,9 +17,12 @@ Recursos Principais:
 <li>Criação de uma grade horária personalizada para cada semestre.</li>
 
 </ul><br/>
-![image](https://github.com/user-attachments/assets/ddd22477-d293-44b6-880b-8ea6f74a3986)
+![image](https://github.com/user-attachments/assets/b2a796b6-0c0f-4667-a77b-d2ab99ec3b98)
+
+
 <br/>
-![Image](https://github.com/user-attachments/assets/9f73f999-aeb0-4856-93de-1a5b5f08fc23)
+![image](https://github.com/user-attachments/assets/f1426e81-5a95-44d5-a64f-7fb705f9b653)
+
 <br/>
 <b>🔢 Acompanhamento do Progresso Acadêmico</b>
 <ul>
@@ -33,14 +36,15 @@ Recursos Principais:
 <li>Registro de datas de provas para melhor organização dos estudos.</li>
 
 </ul><br/>
-![image](https://github.com/user-attachments/assets/f4570cfb-33b2-453c-8543-42f95126ee4b)
+![image](https://github.com/user-attachments/assets/51ef28da-725a-414d-a21c-ff7ba2cb5d28)
 
 <br/>
 <b>📈 Interface e Usabilidade</b>
 <br/>
 <p>Dashboard intuitivo, facilitando a navegação e acesso rápido às informações.</p>
 
-<p>Possibilidade de editar o perfil do usuário para personalização da experiência.</p>
+<p>Possibilidade de editar o perfil do usuário para personalização da experiência.</p><br/>
+![image](https://github.com/user-attachments/assets/aa3f5cd3-6ad2-402b-bdb2-4b0dd8397472)
 
 <br/>
 <b>🛠️ Tecnologias Utilizadas</b><br/>
@@ -52,14 +56,15 @@ CSS e Bootstrap para estilização e responsividade<br/>
 JavaScript para interatividade<br/>
 
 Composer para gerenciamento de bibliotecas e importação de arquivos PDF<br/>
-![image](https://github.com/user-attachments/assets/91e6f245-4fd7-4c4e-b2fa-6343cabd0e03)<br/>
+![image](https://github.com/user-attachments/assets/01498e58-bffd-4405-954f-526d79edb55b)
 
 
+<br/>
 <b>📚 Instalação</b><br/>
 
 Clone este repositório:<br/>
 
-git clone https://github.com/seuusuario/uflow.git <br/>
+git clone https://github.com/samuelpesousa/uflow.git <br/>
 
 Instale as dependências via Composer:<br/>
 
