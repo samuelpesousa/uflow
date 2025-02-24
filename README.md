@@ -1,9 +1,8 @@
 <h1>UFLow - Controle Acadêmico Universitário</h1>
 
 <p>UFLow é um sistema web desenvolvido em PHP, CSS, JavaScript e Bootstrap, utilizando o Composer para importar arquivos PDF e transformá-los em texto. A plataforma oferece um controle completo da vida acadêmica, permitindo que os usuários acompanhem seu progresso no curso de forma intuitiva e organizada.</p>
-<br/>
+
 <h3>🌟 Gerenciamento da Grade Curricular</h3>
-<br/>
 <ul>
 <br/>
 
@@ -41,30 +40,30 @@
 
 ![image](https://github.com/user-attachments/assets/51ef28da-725a-414d-a21c-ff7ba2cb5d28)
 
-<br/>
 <h3>📈 Interface e Usabilidade</h3>
-<br/><br/>
+<br/>
 <p>Dashboard intuitivo, facilitando a navegação e acesso rápido às informações.</p>
 
 <p>Possibilidade de editar o perfil do usuário para personalização da experiência.</p><br/><br/>
 
 ![image](https://github.com/user-attachments/assets/aa3f5cd3-6ad2-402b-bdb2-4b0dd8397472)
 
-<br/>
-<h3>🛠️ Tecnologias Utilizadas</h3><br/><br/>
 
-PHP para o backend<br/>
+<h3>🛠️ Tecnologias Utilizadas</h3><br/>
+<ul>
+<li>PHP para o backend</li>
 
-CSS e Bootstrap para estilização e responsividade<br/>
+<li>CSS e Bootstrap para estilização e responsividade</li>
 
-JavaScript para interatividade<br/>
+<li>JavaScript para interatividade</li>
 
-Composer para gerenciamento de bibliotecas e importação de arquivos PDF<br/><br/>
+<li>Composer para gerenciamento de bibliotecas e importação de arquivos PDF</li>
+<ul>
+<br/><br/>
 ![image](https://github.com/user-attachments/assets/01498e58-bffd-4405-954f-526d79edb55b)
 
 
-<br/>
-<h3>📚 Instalação</h3><br/><br/>
+<h3>📚 Instalação</h3><br>
 
 Clone este repositório:<br/>
 
@@ -76,7 +75,7 @@ composer install<br/>
 
 Configure o servidor local (XAMPP, WAMP ou outro ambiente PHP).<br/>
 
-Execute o sistema acessando localhost/uflow.<br/>
+Execute o sistema acessando localhost/uflow.<br/><br/>
 
 
 <b>📊 Contribuição</b>
