@@ -17,10 +17,12 @@ Recursos Principais:
 <li>Criação de uma grade horária personalizada para cada semestre.</li>
 
 </ul><br/>
+
 ![image](https://github.com/user-attachments/assets/b2a796b6-0c0f-4667-a77b-d2ab99ec3b98)
 
 
 <br/>
+
 ![image](https://github.com/user-attachments/assets/f1426e81-5a95-44d5-a64f-7fb705f9b653)
 
 <br/>
