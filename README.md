@@ -20,9 +20,11 @@
 ![image](https://github.com/user-attachments/assets/b2a796b6-0c0f-4667-a77b-d2ab99ec3b98)
 
 
+
 <br/><br/>
 
 ![image](https://github.com/user-attachments/assets/f1426e81-5a95-44d5-a64f-7fb705f9b653)
+
 
 <br/>
 <h3>🔢 Acompanhamento do Progresso Acadêmico</h3>
@@ -39,6 +41,7 @@
 </ul><br/><br/>
 
 ![image](https://github.com/user-attachments/assets/51ef28da-725a-414d-a21c-ff7ba2cb5d28)
+
 <br/>
 <h3>📈 Interface e Usabilidade</h3>
 <ul>
@@ -60,7 +63,9 @@
 <li>Composer para gerenciamento de bibliotecas e importação de arquivos PDF</li>
 <ul>
 <br/><br/>
+  
 ![image](https://github.com/user-attachments/assets/01498e58-bffd-4405-954f-526d79edb55b)
+
 
 
 <h3>📚 Instalação</h3><br>
