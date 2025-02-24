@@ -39,13 +39,13 @@
 </ul><br/><br/>
 
 ![image](https://github.com/user-attachments/assets/51ef28da-725a-414d-a21c-ff7ba2cb5d28)
-
-<h3>📈 Interface e Usabilidade</h3>
 <br/>
-<p>Dashboard intuitivo, facilitando a navegação e acesso rápido às informações.</p>
+<h3>📈 Interface e Usabilidade</h3>
+<ul>
+<li>Dashboard intuitivo, facilitando a navegação e acesso rápido às informações.</li>
 
-<p>Possibilidade de editar o perfil do usuário para personalização da experiência.</p><br/><br/>
-
+<li>Possibilidade de editar o perfil do usuário para personalização da experiência.</li>
+</ul>
 ![image](https://github.com/user-attachments/assets/aa3f5cd3-6ad2-402b-bdb2-4b0dd8397472)
 
 
@@ -75,10 +75,10 @@ composer install<br/>
 
 Configure o servidor local (XAMPP, WAMP ou outro ambiente PHP).<br/>
 
-Execute o sistema acessando localhost/uflow.<br/><br/>
+Execute o sistema acessando localhost/uflow.<br/>
 
 
-<b>📊 Contribuição</b>
+<h3>📊 Contribuição</h3>
 
 <p>Se deseja contribuir com melhorias no UFLow, sinta-se à vontade para abrir uma issue ou enviar um pull request.</p>
 
