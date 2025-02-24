@@ -1,0 +1,8 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "spatie/pdf-to-image": "^1.2",
+        "setasign/fpdi": "^2.6",
+        "smalot/pdfparser": "^2.11"
+    }
+}
