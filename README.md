@@ -38,6 +38,7 @@ Recursos Principais:
 <li>Registro de datas de provas para melhor organização dos estudos.</li>
 
 </ul><br/>
+
 ![image](https://github.com/user-attachments/assets/51ef28da-725a-414d-a21c-ff7ba2cb5d28)
 
 <br/>
@@ -46,6 +47,7 @@ Recursos Principais:
 <p>Dashboard intuitivo, facilitando a navegação e acesso rápido às informações.</p>
 
 <p>Possibilidade de editar o perfil do usuário para personalização da experiência.</p><br/>
+
 ![image](https://github.com/user-attachments/assets/aa3f5cd3-6ad2-402b-bdb2-4b0dd8397472)
 
 <br/>
