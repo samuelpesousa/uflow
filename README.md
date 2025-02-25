@@ -49,6 +49,7 @@
 
 <li>Possibilidade de editar o perfil do usuário para personalização da experiência.</li>
 </ul>
+
 ![image](https://github.com/user-attachments/assets/aa3f5cd3-6ad2-402b-bdb2-4b0dd8397472)
 
 
